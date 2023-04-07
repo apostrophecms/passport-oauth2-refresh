@@ -1,5 +1,7 @@
 # Passport OAuth 2.0 Refresh
 
+This is just a **temporary fork** until an upstream patch is accepted.
+
 An add-on to the [Passport](http://passportjs.org) authentication library to provide a simple way to refresh your OAuth 2.0 access tokens.
 
 [![Build Status](https://github.com/fiznool/passport-oauth2-refresh/workflows/Node.js%20CI/badge.svg)](https://github.com/fiznool/passport-oauth2-refresh/workflows/Node.js%20CI/badge.svg)
